@@ -37,3 +37,6 @@ Comparison of transformer models based on accuracy and latency (e.g., BERT vs Di
 
 Frontend integration possibilities for seamless UI/UX in customer-facing applications.
 
+output:
+Screenshot 2025-07-13 163701.png
+
