@@ -1,0 +1,7 @@
+chatbot_project/
+├── app.py
+├── chatbot.py
+├── database.py
+├── templates/
+│   └── index.html
+└── requirements.txt
