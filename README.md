@@ -36,3 +36,4 @@ Practical implementation of NLP pipelines from preprocessing to semantic modelin
 Comparison of transformer models based on accuracy and latency (e.g., BERT vs DistilBERT).
 
 Frontend integration possibilities for seamless UI/UX in customer-facing applications.
+
